@@ -2,6 +2,8 @@
   <nav>
     <router-link to="/">Home</router-link> |
     <router-link to="/about">About</router-link>
+    <router-link to="/databinding/string">  |vString</router-link>
+    <router-link to="/databinding/html">  | html</router-link>
   </nav>
   <router-view/>
 </template>
